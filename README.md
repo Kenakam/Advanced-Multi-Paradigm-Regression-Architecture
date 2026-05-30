@@ -190,5 +190,6 @@ pip install numpy pandas scikit-learn tensorflow optuna catboost xgboost lightgb
 * **Step 2**: Execute `(DL) Advanced Multi-Paradigm Regression.ipynb` to process the standardized data arrays and initiate the automated Optuna neural network optimization cycles.
 
 
-## NOTE: Because the file size is too large, I'm providing a link for it:
-* regression_avito_deals.xlsx: [https://drive.google.com/file/d/1y5R514fgg2_0CQ3CZhpaW13Tn5TnUWPP/view?usp=drive_link](https://docs.google.com/spreadsheets/d/1V4aovw43J-B-_LHXREO8jXvB9vN_pM9f/edit?usp=sharing&ouid=110983974899597192480&rtpof=true&sd=true)
+> [!NOTE]
+> Because the file size is too large, I'm providing a link for it:
+>* regression_avito_deals.xlsx: [https://drive.google.com/file/d/1y5R514fgg2_0CQ3CZhpaW13Tn5TnUWPP/view?usp=drive_link](https://docs.google.com/spreadsheets/d/1V4aovw43J-B-_LHXREO8jXvB9vN_pM9f/edit?usp=sharing&ouid=110983974899597192480&rtpof=true&sd=true)
